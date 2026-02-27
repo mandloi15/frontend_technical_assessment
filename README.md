@@ -1,7 +1,3 @@
-Here is a **professional README.md** (without emojis) that you can directly use for your GitHub project.
-
----
-
 # Frontend Technical Assessment
 
 ## Overview
